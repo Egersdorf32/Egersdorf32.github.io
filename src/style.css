@@ -1,0 +1,12 @@
+
+html, body{
+    background: url(background.jpg);
+}
+.self{
+    margin-top: 80px;
+}
+.text1{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+}
